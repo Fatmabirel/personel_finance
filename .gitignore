@@ -11,9 +11,6 @@ venv/
 # Streamlit secrets
 .streamlit/secrets.toml
 
-# Model dosyaları
-*.pkl
-
 # OS dosyaları
 .DS_Store
 Thumbs.db
